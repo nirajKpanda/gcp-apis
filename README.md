@@ -1,6 +1,6 @@
-# This repository holds Python scripts developed during initial days of my learning GCP and its oferings.
+# Python scripts developed with google cloud apis.
 
-# APIs developed:-
+# APIs used:-
 
 1. Vision
 2. Natural Language
